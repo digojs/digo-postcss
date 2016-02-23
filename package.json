@@ -1,0 +1,19 @@
+{
+    "name": "digo-postcss",
+    "version": "0.1.0",
+    "repository": "http://github.com/digojs/digo-postcss",
+    "description": "digo 插件：使用 PostCSS 优化 CSS",
+    "keywords": [
+        "digo plugin",
+        "postcss",
+        "autoprefixer"
+    ],
+    "license": "MIT",
+    "author": "xuld <xuld@vip.qq.com>",
+    "dependencies": {
+        "postcss": "latest"
+    },
+    "files": [
+        "index.js"
+    ]
+}
